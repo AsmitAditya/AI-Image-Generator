@@ -1,2 +1,2 @@
 # AI-Image-Generator
-A web-based AI Image Generator that creates images from text prompts using HTML, CSS, JavaScript, and AI APIs.
+An AI Image Generator that creates unique images from text prompts using artificial intelligence.
