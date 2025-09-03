@@ -8,7 +8,7 @@ const modelSelect = document.getElementById("model-select");
 const countSelect = document.getElementById("count-select");
 const ratioSelect = document.getElementById("ratio-select");
 
-const API_KEY = "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";
+const API_KEY = "API KEY";
 
 const examplePrompts = [
     "A magic forest with glowing plants and fairy homes among giant mushrooms",
